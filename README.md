@@ -35,5 +35,6 @@ This project is created for academic and internship learning purposes under the 
 
 ---
 
-**Developed by Ujjval Baijal**  
+**Developed by Mayank Gupta
+**  
 *AICTE Edunet Foundation – IBM Cloud Virtual Internship (August 2025)*
