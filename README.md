@@ -29,6 +29,17 @@ This project was developed as part of the **AICTE Edunet Foundation – IBM Clou
 
 ---
 
+## Type
+Academic / Internship Project (AICTE Edunet – IBM SkillsBuild)
+
+---
+
+## Note
+This project was built using IBM's low-code AI tools (Watsonx.ai, AutoAI) as part of a virtual internship program.  
+The implementation focuses on AI model usage and cloud deployment rather than traditional code-based development.
+
+---
+
 ## 📜 License
 
 This project is created for academic and internship learning purposes under the AICTE Edunet – IBM Cloud program.
